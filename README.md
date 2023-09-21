@@ -1,6 +1,26 @@
 # Java
 Hi, How are you, My name is Java and you ?
 
+# Introduction of Java
+      1.Java is a popular programming language, created in 1995.
+      2.It is owned by Oracle.
+      3.Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+      4.It is one of the most popular programming language in the world.
+      5.It is open-source and free
+      6.It is secure, fast and powerful
+      7.It has a huge community support (tens of millions of developers)
+      8.Java is an object oriented language which gives a clear structure to programs
+      and allows code to be reused, lowering development costs.
+   
+
+# It is used for:
+      1.Mobile applications (specially Android apps)
+      2.Desktop applications
+      3.Web applications
+      4.Web servers and application servers
+      5.Games
+      6.Database connection
+      
 # JDK
       1.The JDK is a development environment for building applications and components
       using the Java programming language.
