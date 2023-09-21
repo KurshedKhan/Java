@@ -3,13 +3,13 @@ Hi, How are you, My name is Java and you ?
 
 # Introduction of Java
       1.Java is a popular programming language, created in 1995.
-      2.It is owned by Oracle.
+      2.It is owned by "Oracle".
       3.Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
       4.It is one of the most popular programming language in the world.
       5.It is open-source and free.
       6.It is secure, fast and powerful.
       7.It has a huge community support (tens of millions of developers).
-      8.Java is an object oriented language which gives a clear structure to programs.
+      8.Java is an "object oriented language" which gives a clear structure to programs.
       and allows code to be reused, lowering development costs.
    
 
