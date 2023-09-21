@@ -5,10 +5,14 @@ public class PrintHello2 {
         System.out.println("Good Morning...!");
         System.out.println("Hi, How are you ?");
 
-
+        // Single line comment.
+        
         System.out.print("Namste ji ");
         System.out.print("Java is a very easy language.\n");
 
+        /*
+            multiple line comment.
+        */
         System.out.print("a = 30 , b = 50 : a+b = ");
         System.out.print(30 + 40);
 
