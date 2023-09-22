@@ -4,7 +4,7 @@ public class Pattern1 {
         int Staring_Point;
         int Ending_Point = 10;
         int Staring_Point2;
-        int Ending_Point2 = 5;
+        //int Ending_Point2 = 5;
 
         for(Staring_Point = 1 ; Staring_Point < Ending_Point ; Staring_Point++){
 
