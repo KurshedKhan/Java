@@ -1,5 +1,12 @@
 class variable {
     
+    // ** Variable **
+    // A variable is a container which holds the value while the Java program is executed. 
+    // A variable is assigned with a data type.
+    // A variable is the name of a reserved area allocated in memory.
+
+    
+
     // ** Instance variable **
     // A variable declared inside the class but outside the body of the method, 
     // is called an instance variable.
