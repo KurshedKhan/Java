@@ -47,7 +47,7 @@ public class TypeCasting {
     // number1 = 30; // cannot be changed once initialized
     
     // In Java, an uninitialized int variable has a default value of 0.
-    int num1;
+    int num1 = 45;
     System.out.println(" Name : " + num1);
 
     // Note : To declare a variable that can hold a fractional value, 
